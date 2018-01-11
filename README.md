@@ -1,12 +1,10 @@
 <p align="center">
-    <a href="http://www.xuxueli.com/xxl-job/">
-        <img src="https://raw.githubusercontent.com/xuxueli/xxl-job/master/doc/images/xxl-logo.jpg" width="150">
-    </a>
+    <img src="https://raw.githubusercontent.com/xuxueli/xxl-job/master/doc/images/xxl-logo.jpg" width="150">
     <h3 align="center">XXL-JOB</h3>
     <p align="center">
         XXL-JOB, a lightweight distributed task scheduling framework.
         <br>
-        <a href="http://www.xuxueli.com/xxl-job/"><strong>-- Browse website. --</strong></a>
+        <a href="http://www.xuxueli.com/xxl-job/"><strong>-- Home Page --</strong></a>
         <br>
         <br>
         <a href="https://travis-ci.org/xuxueli/xxl-job">
@@ -150,6 +148,7 @@ XXL-JOB是一个轻量级分布式任务调度框架，其核心设计目标是�
     - 57、华夏票联（北京）科技有限公司
     - 58、拍拍贷
     - 59、北京尚德机构在线教育有限公司
+    - 60、任子行股份有限公司
 	- ……
 
 > 更多接入的公司，欢迎在 [登记地址](https://github.com/xuxueli/xxl-job/issues/1 ) 登记，登记仅仅为了产品推广。
